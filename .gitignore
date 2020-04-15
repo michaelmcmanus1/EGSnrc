@@ -1,5 +1,5 @@
 ### ignore EGSnrc configuration generated files
-
+egs_home/
 HEN_HOUSE/
 Documentation/
 egsnrc_mp/
